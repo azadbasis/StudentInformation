@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Student Information\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f93c34e18546fcafb195def85964793fbf75f9d0">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_99863ccde8070f21722e33c6683d6262031f87df.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_775f3098c155c7a3f295502008d218dee5125dfc.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_a48a3d5c9d0ea973443946bc15759cd592f07e7d.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_85bc6bac7b931a28a18ae3bd08f23454aa8c0b4e.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_68d131b36584c6dd5833992b02fd4b2e6e0c9db3.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_4e157546b5080f3cec18f76106af38f2709f7f72.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_c5a4ca48f626ba29c0b0b5f31ea6d3026b62a9b1.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_efd358856f7349d1a9ffd2b176d6d830be5c44c9.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5bf3de63c0d9645a88c7ee95f8989d979fb2cec1">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\instant-run_0ec2ce8b9649cba7a40fb5880c6f5200d49aef14.jar" />
+    </item>
+    <item
+        jar="G:\Student Information\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="G:\Student Information\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_8b9207858892e821db5a72910d47772e2a372bcd.jar" />
+    </item>
+
+</items>
